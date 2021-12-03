@@ -5,6 +5,21 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
+```rust
+let thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
