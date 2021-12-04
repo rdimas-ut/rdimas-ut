@@ -1,9 +1,9 @@
 # Howdy, 𝗜'𝗺 Ruben Dimas!
 
 
-🦀 I’m currently working on improving render time on my ray tracer written in Rust__
-🌱 I’m currently learning Rust, Elixir, and Julia__
-🐋 I'm enjoying__
+🦀 I’m currently working on improving render time on my ray tracer written in Rust<br /> 
+🌱 I’m currently learning Rust, Elixir, and Julia  <br /> 
+🐋 I'm enjoying  <br /> 
 
 ```rust
 let ruben = {
