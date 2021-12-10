@@ -1,6 +1,6 @@
 # Howdy, 𝗜'𝗺 Ruben Dimas!
 
-Completed my BS in Chemistry, BS in Mathematics, and CS Certificate at UT Austin in Spring of 2020. Currently, I work at Apple doing annotation work for the Siri team. I'm looking to break into the industry but also empower myself to create tools, experiences, and anything whose usefulness is unquestioned as art. I'm a proud  first gen college graduate and first and a half generation immigrant from the state of Hidalgo Mexico. 
+Completed my BS in Chemistry, BS in Mathematics, and CS Certificate at UT Austin in Spring of 2020. Currently, I work at Apple doing annotation work for the Siri team. I'm looking to break into the industry but also empower myself to create tools, experiences, and anything whose usefulness is unquestioned as art. 
 
 🦀 I’m currently working on improving render time on my ray tracer written in Rust<br /> 
 🌱 I’m currently learning Elixir, and Julia  <br /> 
