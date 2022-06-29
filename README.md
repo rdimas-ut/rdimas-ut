@@ -3,7 +3,7 @@
 Completed my BS in Chemistry, BS in Mathematics, and CS Certificate at UT Austin in Spring of 2020. Currently, I work at Apple doing annotation work for the Siri team. I'm looking to break into the industry but also empower myself to create tools, experiences, and anything whose usefulness is unquestioned as art. 
 
 🦀 I’m currently working on improving render time on my ray tracer written in Rust<br /> 
-🌱 I’m currently learning Elixir, and Julia  <br /> 
+🌱 I’m currently learning Rust, Elixir, and Julia  <br /> 
 🐋 I'm enjoying this whale emoji! <br /> 
 
 ```rust
