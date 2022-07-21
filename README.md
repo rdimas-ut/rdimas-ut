@@ -9,8 +9,8 @@ Completed my BS in Chemistry, BS in Mathematics, and CS Certificate at UT Austin
 ```rust
 let ruben = {
   pronouns: ["he","him", "his",
-  listeningTo: ["SHISHAMO", "ANRI", "Doja Cat"],
-  currentlyEating: ["Green Tamales", "In-N-Out Burgers", "Chilaquiles", "Ramen", and "Hawaiian pizza"],
+  listeningTo: ["Elton John", "Ramona", "Lovely Summer Chan"],
+  currentlyReading: ["Rust for Rustacenans"],
 }
 ```
 
