@@ -1,4 +1,4 @@
-# Howdy, 𝗜'𝗺 Ruben Dimas!
+# Howdy🐋, 𝗜'𝗺 Ruben Dimas!
 
 Completed my BS in Chemistry, BS in Mathematics, and CS Certificate at UT Austin in Spring of 2020. Currently, I work at Apple doing annotation work for the Siri team. I'm looking to break into the industry but also empower myself to create tools, experiences, and anything whose usefulness is unquestioned as art. 
 
