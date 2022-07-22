@@ -8,7 +8,7 @@ Completed my BS in Chemistry, BS in Mathematics, and CS Certificate at UT Austin
 
 ```rust
 let ruben = {
-  pronouns: ["he", "him", "his",
+  pronouns: ["he", "him", "his"],
   listeningTo: ["Elton John", "Ramona", "Lovely Summer Chan"],
   currentlyReading: ["Rust for Rustaceans"],
 }
