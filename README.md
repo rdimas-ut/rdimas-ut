@@ -1,15 +1,15 @@
 # Howdy🐋, 𝗜'𝗺 Ruben Dimas!
 
-Completed my BS in Chemistry, BS in Mathematics, and CS Certificate at UT Austin in Spring of 2020. Currently, I work at Apple as a Data Analyst for AI/ML. I'm looking to break into the software industry but also empower myself to create tools, experiences, and anything whose usefulness is unquestioned as art. 
+Completed my BS in Chemistry, BS in Mathematics, and CS Certificate at UT Austin in Spring of 2020. Currently looking for work as a developer. 
 
-🦀 I’m currently working on improving render time on my ray tracer written in Rust<br /> 
-🌱 I’m currently learning Rust, Elixir, and Julia  <br /> 
+🦀 I’m currently working on finding a new project to work on in Rust<br /> 
+🌱 I’m currently learning Rust, and Elixir  <br /> 
 🐋 I'm enjoying this whale emoji! <br /> 
 
 ```rust
 let ruben = {
   pronouns: ["he", "him", "his"],
-  listeningTo: ["Elton John", "Ramona", "Lovely Summer Chan"],
+  listeningTo: ["Ryo Fukui", "Mitski", "Ramona"],
   currentlyReading: ["Rust for Rustaceans"],
 }
 ```
