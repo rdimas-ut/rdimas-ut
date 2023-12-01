@@ -17,7 +17,8 @@ let ruben = {
 
 ## Code
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=flat-square&logo=python&logoColor=white)
+
+<!--![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -32,7 +33,7 @@ let ruben = {
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
+-->
 
 <!--
 **rdimas-ut/rdimas-ut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
