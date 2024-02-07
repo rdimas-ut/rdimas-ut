@@ -1,9 +1,9 @@
 # Howdy🐋, 𝗜'𝗺 Ruben Dimas!
 
-Completed my BS in Chemistry, BS in Mathematics, and CS Certificate at UT Austin in Spring of 2020. Currently looking for work as a software engineer. 
+I hold a BS in Chemistry, BS in Mathematics, and CS Certificate from UT Austin. Currently working as a Software Engineer in Virginia.
 
-🦀 I’m currently working on finding a new project to work on in Rust<br /> 
-🌱 I’m currently learning Rust, and Elixir  <br /> 
+🦀 Working on a kernel project for Rust <br /> 
+<!-- 🌱 I’m currently learning Rust, and Elixir <br /> -->
 🐋 I'm enjoying this whale emoji! <br /> 
 
 ```rust
