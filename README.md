@@ -2,8 +2,8 @@
 
 I hold a BS in Chemistry, BS in Mathematics, and CS Certificate from UT Austin. Currently working as a Software Engineer in Virginia.
 
-🦀 Working on a kernel project for Rust <br /> 
-<!-- 🌱 I’m currently learning Rust, and Elixir <br /> -->
+<!-- 🦀 Working on a kernel project for Rust <br /> -->
+🌱 I’m currently learning Rust, and Elixir <br /> 
 🐋 I'm enjoying this whale emoji! <br /> 
 
 ```rust
