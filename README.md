@@ -6,13 +6,13 @@ I hold a BS in Chemistry, BS in Mathematics, and CS Certificate from UT Austin. 
 🌱 I’m currently learning Rust, and Elixir <br /> 
 🐋 I'm enjoying this whale emoji! <br /> 
 
-```rust
+<!-- ```rust
 let ruben = {
   pronouns: ["he", "him", "his"],
   listeningTo: ["Ryo Fukui", "Mitski", "Ramona"],
   currentlyReading: ["Rust for Rustaceans"],
 }
-```
+``` -->
 
 
 ## Code
