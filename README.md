@@ -1,11 +1,13 @@
-# Howdy🐋, 𝗜'𝗺 Ruben Dimas!
+# Hello 🐋!
 
-I hold a BS in Chemistry, BS in Mathematics, and CS Certificate from UT Austin. Currently working as a Software Engineer in Virginia.
+I'm a software engineer with 3.5 years of experience. I've most recently worked on modernizing software running on a distributed system. Refactored C, and C++ code to fall inline with modern rhel9 drivers and coding standards.
+Worked on features that implemented OpenGL and OpenCV for realtime data visualization and decision making. Experience on working with low-level systems and hardware aswell as fullstack applications.
+
+In my previous work I've deployed survey platforms and data collections tools, deployed on Azure, built on python and documented thoroughly. 
+
+Self taught rustacean 🦀 looking for my next role, hopefully in the rust ecosystem.
 
 <!-- 🦀 Working on a kernel project for Rust <br /> -->
-🌱 I’m currently learning Rust, and Elixir <br /> 
-🐋 I'm enjoying this whale emoji! <br /> 
-
 <!-- ```rust
 let ruben = {
   pronouns: ["he", "him", "his"],
