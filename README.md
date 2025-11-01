@@ -1,9 +1,9 @@
 # Hello 🐋!
 
 I'm a software engineer with 3.5 years of experience. I've most recently worked on modernizing software running on a distributed system. Refactored C, and C++ code to fall inline with modern rhel9 drivers and coding standards.
-Worked on features that implemented OpenGL and OpenCV for realtime data visualization and decision making. Experience on working with low-level systems and hardware aswell as fullstack applications.
+Worked on features that implemented OpenGL and OpenCV for realtime data visualizations and decision making. Experienced on working with low-level systems and hardware aswell as fullstack applications.
 
-In my previous work I've deployed survey platforms and data collections tools, deployed on Azure, built on python and documented thoroughly. 
+In my previous work I've built data collections tools, deployed on Azure, built on python and documented thoroughly. 
 
 Self taught rustacean 🦀 looking for my next role, hopefully in the rust ecosystem.
 
