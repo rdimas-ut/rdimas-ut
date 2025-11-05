@@ -1,4 +1,4 @@
-# Hello 🐋!
+# Hello!
 
 I'm a software engineer with 3.5 years of experience. I've most recently worked on modernizing software running on a distributed system. Refactored C, and C++ code to fall inline with modern rhel9 drivers and coding standards.
 Worked on features that implemented OpenGL and OpenCV for realtime data visualizations and decision making. Experienced on working with low-level systems and hardware aswell as fullstack applications.
